@@ -1,4 +1,4 @@
-package se.lunderhage.spring.test.hello;
+package se.lunderhage.spring.test.simple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
